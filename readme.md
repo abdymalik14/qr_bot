@@ -1,0 +1,1 @@
+Bot for qr-code generation
